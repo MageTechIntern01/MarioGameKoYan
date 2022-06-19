@@ -1,0 +1,4 @@
+repository "MageTechMarioGame@euftangan@cloud"
+  path "/"
+    br "/main"
+    co "/main"
